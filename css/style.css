@@ -4,6 +4,14 @@
   font-family: 'Hiragino Kaku Gothic ProN';
 }
 
+h1, h2, h3, h4, h5, h6, p, span, li, a {
+  font-family: 'Hiragino Kaku Gothic ProN';
+}
+
+h1, h2, h3, h4 {
+  white-space: nowrap;
+}
+
 li {
   list-style: none;
   color: black;
